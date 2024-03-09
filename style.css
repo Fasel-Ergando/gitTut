@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  background: #121212;
+}
+p {
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-family: poppins, Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  color: white;
+}
